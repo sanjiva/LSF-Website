@@ -14,7 +14,6 @@ Yet, at the time, contributions to almost every open source project was only by 
 
 LSF set out to create an environment to make it possible for Sri Lankan developers to contribute to, and lead, the next generation of platform infrastructure software.
 
-
 ### Members
 
 LSF is registered as a company limited by guarantee in 2003, which is the vehicle for creating not-for-profit busineses in the country. The members serve as the guarantors of the company in terms of financial operation and commitment to purpose.
@@ -42,6 +41,7 @@ The members are / were:
     {% endfor %}
 </table>
 
+The Articles of Association of LSF are <a href="{{ site.baseurl }}/assets/docs/2003-Articles-Of-Association.pdf">here</a>.
 
 ## Phase 1 (2003 to 2013): Building open source technology around web services & Sahana
 This phase is what led to the creation of WSO2 on top of the Apache Axis2 project which LSF developed with a $100K grant from the Swedish International Development Agency (from 2004 to 2005). After WSO2 launched in 2005, LSF continued to do various projects in web services but work in that area slowed down a lot as Sahana took primary focus.
