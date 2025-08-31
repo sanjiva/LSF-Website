@@ -14,7 +14,33 @@ Yet, at the time, contributions to almost every open source project was only by 
 
 LSF set out to create an environment to make it possible for Sri Lankan developers to contribute to, and lead, the next generation of platform infrastructure software.
 
-LSF was registered as a guarantee company in 2003 with a distinguished group of members to bring confidence to the purpose driven nature of the company. 
+
+### Members
+
+LSF is registered as a company limited by guarantee in 2003, which is the vehicle for creating not-for-profit busineses in the country. The members serve as the guarantors of the company in terms of financial operation and commitment to purpose.
+
+The members are / were:
+
+<table>
+    {% for member in site.data.members %}
+        {% assign person = member[1] %}
+        <tr>
+            <td width="20%" style="vertical-align: top;">
+                <img src="{{ site.baseurl }}/{{ person.image }} " width="100%">
+            </td>
+            <td>
+                <p id="{{ member[0] }}">
+                    <b> {{ person.name }} </b><br>
+                    {{ person.shortbio | markdownify }}
+                    {% if person.moreinfo != nil %}
+                        More: 
+                        <a href="{{ person.moreinfo }}"> {{ person.moreinfo}} </a>
+                    {% endif %}
+                </p>                
+            </td>
+        </tr>
+    {% endfor %}
+</table>
 
 
 ## Phase 1 (2003 to 2013): Building open source technology around web services & Sahana
