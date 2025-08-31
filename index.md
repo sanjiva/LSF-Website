@@ -14,4 +14,4 @@ that can be freely developed, deployed and used without restrictions from world 
 
 The Lanka Software Foundation is a non-profit organization dedicated to helping Sri Lankan software engineers create such software for the world.
 
-Learn more about our <a href="/projects">projects</a> and <a href="/about">about us</a>.
+Learn more about our <a href="/projects">projects</a>, our <a href="/team">team</a> and <a href="/about">about the foundation</a>.
