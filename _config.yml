@@ -19,5 +19,3 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
-  team:
-    sort_by: title
