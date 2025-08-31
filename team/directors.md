@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Board of Directors
-permalink: /about/directors/
+permalink: /team/directors/
 ---
+# Board of Directors
+
+The Board of Directors are legally responsible for all aspects of the company.
+
 <table>
     {% for director in site.data.directors %}
         {% assign person = director[1] %}
