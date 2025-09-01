@@ -27,12 +27,12 @@
   position: Software Engineering Fellow
   start_date: 2025-07-28
   end_date: (To Date)
-  moreinfo: https://www.linkedin.com/
+  moreinfo: https://www.linkedin.com/in/mushrafmim
   projects: [OpenDIF]
   image: assets/images/people/Mohamed_Mushraf.jpg
-  shortbio: >
-    Mushraf joined LSF from XXX to become part of the OpenDIF project. 
-    Prior to LSF he did AAA, BBB.
+  shortbio:
+    Mushraf joined LSF from University of Moratuwa to become part of the OpenDIF project.
+    Prior to LSF, he worked as a software development engineer intern at The Software Practice (Pte) Ltd.
 
 2025regina:
   name: Gina Xu
