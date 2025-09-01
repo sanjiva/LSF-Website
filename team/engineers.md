@@ -2,6 +2,7 @@
 layout: page
 permalink: /team/engineers/
 ---
+
 # Our engineers
 
 Code makes the world go around and our engineers are the ones who do the magic. Note that LSF offers short term fellowships for engineers and as such everyone has the same job title of Software Engineering Fellow.
@@ -15,7 +16,7 @@ Code makes the world go around and our engineers are the ones who do the magic. 
             </td>
             <td>
                 <p>
-                    Name: <b>{{ person.title }}</b><br>
+                    Name: <b>{{ person.name }}</b><br>
                     Role: <b>{{ person.position }}</b><br>
                     Start Date: <b>{{ person.start_date }}</b><br>
                     Projects:

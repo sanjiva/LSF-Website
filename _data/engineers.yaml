@@ -11,16 +11,15 @@
     Prior to LSF he did AAA, BBB.
 
 2025maneesha:
-  name: Maneesha Walisundara
+  name: Maneesha Walisundera
   position: Software Engineering Fellow
   start_date: 2025-05-01
   end_date: (To Date)
-  moreinfo: https://linkedin.com
+  moreinfo: https://linkedin.com/in/maneesha14w
   projects: [Silver]
-  image: assets/images/people/Maneesha_Walisundara.jpg
-  shortbio:
-    Maneesha joined LSF from XXX to become part of the Silver project. 
-    Prior to LSF he did AAA, BBB.
+  image: assets/images/people/Maneesha_Walisundera.jpg
+  shortbio: >
+    Maneesha joined LSF to become part of the Silver project after working as a freelance cross-platform mobile developer.
 
 2025mohammed:
   name: Mohamed Mushraf
@@ -54,7 +53,5 @@
   moreinfo: https://www.linkedin.com/in/sthanikan2000/?originalSubdomain=lk
   projects: [OpenDIF]
   image: assets/images/people/Thanikan_Sivatheepan.jpg
-  shortbio:
-    Thanikan joined LSF from XXX to become part of the OpenDIF project.
+  shortbio: Thanikan joined LSF from XXX to become part of the OpenDIF project.
     Prior to LSF he did AAA, BBB.
-
