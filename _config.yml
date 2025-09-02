@@ -14,7 +14,7 @@ github_username:  LSFLK
 # Build settings
 theme: minima
 
-# Collectins
+# Collections
 collections:
   projects:
     output: true
