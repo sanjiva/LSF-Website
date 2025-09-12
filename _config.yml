@@ -14,6 +14,12 @@ github_username:  LSFLK
 # Build settings
 theme: minima
 
+# Force custom navigation
+header_pages:
+  - about.md
+  - team.md
+  - projects.md
+
 # Collections
 collections:
   projects:
