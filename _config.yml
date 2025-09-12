@@ -16,8 +16,8 @@ theme: minima
 
 # Force custom navigation
 header_pages:
-  - about.md
-  - team.md
+  - ./about/index.md
+  - ./team/index.md
   - projects.md
 
 # Collections
